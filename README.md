@@ -46,3 +46,25 @@ Adicionando Typescript
 yarn add typescript @types/react @types/node -D
 
 yarn dev
+
+Adicionando o eslint ao projeto
+yarn add eslint -D
+
+yarn eslint --init
+To check syntax, find problems, and enforce code style
+JavaScript modules (import/export)
+React
+Does your project use TypeScript? ‣ No / Yes -> Yes
+? Where does your code run? … (Press <space> to select, <a> to toggle all, <i> to invert selection)
+✔ Browser -> Com a barra de espaço eu seleciono os dois
+✔ Node -> Com a barra de espaço eu seleciono os dois
+Use a popular style guide
+Standard: https://github.com/standard/standard -> Não usa o ponto e virgula no fim das linnhas
+? What format do you want your config file to be in? …
+JavaScript
+YAML
+▸ JSON
+? Would you like to install them now with npm? ‣ No / Yes -> Yes
+
+Agora se estiver utilizando o yarn, então deletar o arquivo package-lock.json e rodar o comando
+yarn
