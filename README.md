@@ -68,3 +68,6 @@ YAML
 
 Agora se estiver utilizando o yarn, então deletar o arquivo package-lock.json e rodar o comando
 yarn
+
+Adicionando o prettier ao projeto
+yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
