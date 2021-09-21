@@ -41,3 +41,8 @@ https://www.youtube.com/watch?v=1nVUfZg2dSA
 yarn create next-app setupreact
 cd setupreact
 yarn dev
+
+Adicionando Typescript
+yarn add typescript @types/react @types/node -D
+
+yarn dev
