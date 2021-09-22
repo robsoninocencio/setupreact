@@ -85,3 +85,6 @@ inline-react-svg
 
 https://github.com/airbnb/babel-plugin-inline-react-svg
 yarn add babel-plugin-inline-react-svg -D
+
+Fonte:
+https://github.com/rocketseat-content/react-nextjs-typescript-structure
