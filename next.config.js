@@ -1,3 +1,8 @@
 module.exports = {
-  reactStrictMode: true,
+  reactStrictMode: true
 }
+
+const withImages = require('next-images')
+module.exports = withImages({
+  esModule: true
+})

@@ -71,3 +71,17 @@ yarn
 
 Adicionando o prettier ao projeto
 yarn add prettier eslint-plugin-prettier eslint-config-prettier -D
+
+Example app with styled-components
+https://github.com/vercel/next.js/tree/master/examples/with-styled-components
+
+yarn add styled-components
+yarn add @types/styled-components -D
+
+https://www.npmjs.com/package/next-images
+yarn add next-images
+
+inline-react-svg
+
+https://github.com/airbnb/babel-plugin-inline-react-svg
+yarn add babel-plugin-inline-react-svg -D
